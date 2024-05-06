@@ -1,4 +1,4 @@
-#Alura MIDI#
+# Alura MIDI
 
 O projeto Alura MIDI, consiste em um pad reprodutor de sons de percussão, onde foi colocado em prática conceitos em JavaScript.
 
